@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AlexAlexAlex1234567.aternos.me:35001",
+    "ip": "AlexAlexAlex1234567.aternos.me",
     "port": 35001,
     "version": "1.21.1"
   },
